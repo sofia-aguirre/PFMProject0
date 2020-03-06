@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="UplJKh" name="PFMProject0" projectType="audioplug" jucerVersion="5.4.7">
+<JUCERPROJECT id="UplJKh" name="PFMProject0" projectType="audioplug" jucerVersion="5.4.7"
+              pluginCharacteristicsValue="pluginIsSynth" pluginManufacturer="Sofia Aguirre">
   <MAINGROUP id="fzDq1Z" name="PFMProject0">
     <GROUP id="{81A0EBA6-73D1-7C0E-C1BE-826197AAC0CA}" name="Source">
       <FILE id="Ptsxa0" name="PluginProcessor.cpp" compile="1" resource="0"
